@@ -9,6 +9,8 @@ public class Myclass {
 		System.out.println("This is a Master Branch!");
 		System.out.println("start devB branch!");
 		System.out.println("Good merge!");
+
+		System.out.println("devC branch start!");
 		hello.SayHello();
 		bye.SayBye();
 	}
