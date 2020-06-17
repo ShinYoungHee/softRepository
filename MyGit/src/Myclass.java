@@ -5,6 +5,7 @@ public class Myclass {
 		Bye bye=new Bye();
 		
 		System.out.println("my name is Shin Young Hee!");
+		System.out.println("devC branch start!");
 		hello.SayHello();
 		bye.SayBye();
 	}
